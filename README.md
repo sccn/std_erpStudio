@@ -1,0 +1,1 @@
+std_erpStudio is a plugin for EEGLAB STUDY (up to ver.14) developed by Makoto Miyakoshi. It is designed to perform ERP analysis across conditions with interactive statistical testing that allows intuitive selection of time window of interest. Both window mean and peak detection within the window for which +/- X ms of mean value can be used for statistical testing. 
